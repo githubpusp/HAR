@@ -2,6 +2,7 @@
 
   <p float="left">
   <img src="HAR1.png" width="50%" height="295px"/>
+    &nbsp;
   <img src="HAR2.jpg" width="40%" />
 </p>
 
