@@ -1,7 +1,7 @@
 # Human Activity Recognition
 
   <p float="left">
-  <img src="HAR1.png" width="33%" height="150%"/>
+  <img src="HAR1.png" width="33%" height="150px"/>
   <img src="HAR2.jpg" width="33%" />
 </p>
 
